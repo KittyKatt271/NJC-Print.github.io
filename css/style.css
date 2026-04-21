@@ -4,5 +4,5 @@
 /*Spotlight Target Works!!*/
 
 .internal .masthead-container h1 {
-    color: black;
+    color: black !important;
 }
