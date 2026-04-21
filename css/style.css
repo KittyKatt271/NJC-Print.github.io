@@ -3,6 +3,6 @@
 }
 /*Spotlight Target Works!!*/
 
-.internal .masthead-container h1 {
+.internal .masthead-container.has-bg .wrap h1 {
     color: black !important;
 }
